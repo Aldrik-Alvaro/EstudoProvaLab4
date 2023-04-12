@@ -2,5 +2,12 @@
 /workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/service/UsuarioService.java
 /workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/entity/Usuario.java
 /workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/controller/UsuarioController.java
-/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/repository/UsuarioRepository.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/entity/Anotacao.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/repository/FuncionarioRepository.java
 /workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/DemoApplication.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/service/FuncionarioService.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/service/IFuncionarioService.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/entity/Funcionario.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/repository/UsuarioRepository.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/entity/Autorizacao.java
+/workspace/EstudoProvaLab4/src/main/java/pre/provalabiv/demo/controller/FuncionarioController.java
